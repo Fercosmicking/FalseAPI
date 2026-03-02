@@ -1,0 +1,36 @@
+{
+  "users": [
+    { "id": 1, "username": "Cato", "fullName": "Catalina Cespedes" },
+    { "id": 2, "username": "Foxy", "fullName": "Sofia Sanchez" },
+    { "id": 3, "username": "Migue", "fullName": "Miguel del Toro" }
+  ],
+  "decks": [
+    {
+      "id": 1,
+      "userId": 1,
+      "cards": [
+        { "id": 1, "name": "Bjork" },
+        { "id": 3, "name": "Arca" },
+        { "id": 5, "name": "Shakira" }
+      ]
+    },
+    {
+      "id": 2,
+      "userId": 2,
+      "cards": [
+        { "id": 2, "name": "Bogota" },
+        { "id": 4, "name": "Medellin" },
+        { "id": 6, "name": "Chia" }
+      ]
+    },
+    {
+      "id": 3,
+      "userId": 3,
+      "cards": [
+        { "id": 7, "name": "Citypapas" },
+        { "id": 8, "name": "Arepology" },
+        { "id": 9, "name": "Corral" }
+      ]
+    }
+  ]
+}
